@@ -1,5 +1,5 @@
-# DawnPro-Utils
-DawnPro-Utils is a tool used to control the Moondrop Dawn Pro AMP/DAC.
+# DawnPro-GUI
+DawnPro-GUI is a tool used to control the Moondrop Dawn Pro AMP/DAC.
 
 ![screenshot](preview.png)
 
